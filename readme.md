@@ -4,5 +4,5 @@ Este repositório contém uma coleção de exercícios de programação desenvol
 
 ## ✨ Listas utilizadas
 
-- 😺 https://wiki.python.org.br/ListaDeExercicios
+- 😺 https://exercicios.dunossauro.com/
 
